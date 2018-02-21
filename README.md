@@ -18,8 +18,5 @@
 
 如果需要将dist同步到git上需要删除 `.gitignore`文件中的`/dist`
 
-文件入口在 `jsbox.config.json` 中配置
+文件入口在 `jsbox.config.json` 中配置
 暂时只有第一个脚本会被自动上传到手机
-
-
-
