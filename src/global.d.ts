@@ -1,3 +1,4 @@
+/* jsbox类型文件 请勿移除 */
 declare interface JSBoxDataTypesBase{
   rawValue:any;
   runtimeValue:any;
