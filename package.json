@@ -1,0 +1,19 @@
+{
+  "name": "ts-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./jsbox-sync.js",
+  "types": "./types/main.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node jsbox-sync.js"
+  },
+  "author": "xioxin(i@xioxin.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-loader": "^3.5.0",
+    "typescript": "^2.7.2",
+    "uglifyjs-webpack-plugin": "^1.2.0",
+    "webpack": "^3.11.0"
+  }
+}

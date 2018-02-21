@@ -1,0 +1,11 @@
+{
+  "host":"192.168.1.105",
+  "autoUpload": true,
+  "script":[
+    {
+      "name":"ts-demo",
+      "icon":"009",
+      "src":"./src/tsdemo.ts"
+    }
+  ]
+}
